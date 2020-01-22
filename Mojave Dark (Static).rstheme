@@ -729,7 +729,7 @@ div .gwt-Label.GD15MCFCF3 {
 
 }
 .nocolor.ace_editor .ace_line span {
-  color: white !important;
+  color: #333333 !important;
 }
 .ace_bracket {
   margin: 0 !important;
