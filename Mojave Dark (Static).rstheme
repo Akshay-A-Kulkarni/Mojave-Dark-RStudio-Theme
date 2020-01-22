@@ -207,7 +207,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 }
 
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #292A30;
+  background-color: #333333;
   color: #F8F8F2;
 }
 
@@ -505,7 +505,7 @@ button.gwt-Button.GD15MCFCH1.GD15MCFCETC {
 }
 
 .rstudio-themes-flat.editor_dark .ace_editor_theme .GD15MCFCGI {
-    color: #ffffff;
+    color: #333333;
 }
 
 select {
