@@ -1,3 +1,5 @@
+A modified version of the theme modified from the original from @patrickshox
+
 # Mojave Dark: An RStudio Theme for Apple Lovers
 
 ![](https://github.com/patrickshox/Mojave-Dark-RStudio-Theme/blob/master/Demo%20Images%20and%20Gifs/Main.png)
