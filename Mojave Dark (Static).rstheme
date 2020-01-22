@@ -144,7 +144,7 @@ table.GD15MCFCBMB {
 */
 
 .ace_gutter {
-  background: #292A30;
+  background: #2c2c33;
   color: #919191;
 }
 
@@ -207,7 +207,7 @@ img[src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAcCAYAAABoMT8aAAAAW
 }
 
 .ace_editor, .rstudio-themes-flat.ace_editor_theme .profvis-flamegraph, .rstudio-themes-flat.ace_editor_theme, .rstudio-themes-flat .ace_editor_theme {
-  background-color: #333333;
+  background-color: #2c2c33;
   color: #F8F8F2;
 }
 
@@ -505,7 +505,7 @@ button.gwt-Button.GD15MCFCH1.GD15MCFCETC {
 }
 
 .rstudio-themes-flat.editor_dark .ace_editor_theme .GD15MCFCGI {
-    color: #333333;
+    color: #ffffff;
 }
 
 select {
@@ -729,7 +729,7 @@ div .gwt-Label.GD15MCFCF3 {
 
 }
 .nocolor.ace_editor .ace_line span {
-  color: #333333 !important;
+  color: white !important;
 }
 .ace_bracket {
   margin: 0 !important;
@@ -756,7 +756,7 @@ div .gwt-Label.GD15MCFCF3 {
   background-color: #535457;
 }
 .terminal {
-  background-color: #292a30;
+  background-color: #2c2c33;
   color: #f8f8f2;
   font-feature-settings: "liga" 0;
   position: relative;
@@ -783,10 +783,10 @@ div .gwt-Label.GD15MCFCF3 {
    background-color: #CCC;
 }
 .terminal .xterm-viewport {
-  background-color: #292a30;
+  background-color: #2c2c33;
   overflow-y: scroll;
 }
-.xtermInvertColor { color: #292a30; }
+.xtermInvertColor { color: #2c2c33; }
 .xtermInvertBgColor { background-color: #f8f8f2; }
 .xtermBold { font-weight: bold; }
 .xtermUnderline { text-decoration: underline; }
